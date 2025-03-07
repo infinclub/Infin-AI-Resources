@@ -15,5 +15,5 @@ Welcome to the INFIN-AI repository! This project is a community-driven initiativ
 1. **Fork the Repository:** Create your own copy of the project.
 2. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/yourusername/infin-ai.git
+   git clone https://github.com/infinclub/Infin-AI-Resources.git
 
